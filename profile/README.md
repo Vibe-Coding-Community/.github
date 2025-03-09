@@ -1,3 +1,7 @@
+![Vibe Coding Community. Feel the Code. Code the vibe.](https://github.com/Vibe-Coding-Community/.github/blob/860672be9a3aa3c18682eba11e590186540e17e8/profile/heading.png)
+
+
+
 # Vibe Coding Community
 
 **Feel the Code. Code the vibe.**  
