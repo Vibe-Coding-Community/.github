@@ -1,52 +1,18 @@
 ![Vibe Coding Community. Feel the Code. Code the vibe.](https://github.com/Vibe-Coding-Community/.github/blob/860672be9a3aa3c18682eba11e590186540e17e8/profile/heading.png)
 
-## Наша цель
+### What is Vibe Coding Community?
 
-Мы создаём будущее, где разработка программного обеспечения становится гармоничным симбиозом человеческого гения и искусственного интеллекта. Наша миссия – объединить новаторов, чтобы:  
-1. **Сформировать глобальное сообщество** для обмена опытом, идеями и лучшими практиками в сфере ИИ-кодинга.  
-2. **Разрабатывать open source-решения**, которые делают программирование быстрее, доступнее и эстетичнее.  
-3. **Снижать барьеры** между идеей и её реализацией, используя ИИ как инструмент творчества.  
-4. **Воспитывать новое поколение кодеров**, для которых технологии – это не просто строки кода, а способ самовыражения.
+**Vibe Coding Community** is a space where useful tools, best practices, and successful projects created with Vibe Coding are gathered and discussed. It’s a community where members share knowledge and experience with each other.
+- **VCC Education** – a tribe dedicated to creating educational materials on Vibe Coding, including courses, webinars, and training sessions. We systematize everything discussed in the VCC Community and turn it into high-quality courses!
+- **VCC Agency** – an agency that develops AI-powered products under the guidance of experienced professionals trained at VCC Education. We make custom development accessible to small and medium-sized businesses, reducing both product creation time and costs.
+- **VCC Crypto** – a tribe that supports open-source projects and rewards participants with VCC cryptocurrency. If you’re a project author, you’ll earn VCC for every git clone of your project. If you’re a contributor, you’ll receive VCC for solving issues or improving the code through pull requests.
 
----
+### Our Mission
 
-## Наши ценности
+We are building a future where software development becomes a harmonious symbiosis of human ingenuity and artificial intelligence. Our mission is to unite innovators to:
+- Create a global community for sharing experiences, ideas, and best practices in AI-driven coding.
+- Develop open-source solutions that make programming faster, more accessible, and more refined.
+- Break down barriers between ideas and their realization by leveraging AI to reduce development costs.
+- Train a new generation of coders capable of ensuring the quality of AI-generated code.
 
-- **Инновации через простоту**  
-  Даже сложные задачи решаются элегантно, когда ИИ становится союзником в поиске нестандартных решений.  
-
-- **Открытость и прозрачность**  
-  Наш код, документация и идеи доступны всем. Учимся друг у друга и растим сообщество, а не конкурируем.  
-
-- **Креативность как стандарт**  
-  Красота кода – в его функциональности и стиле. Проекты создаются с «вайбом», где каждая деталь имеет смысл.  
-
-- **Сила сообщества**  
-  Хакатоны, митапы, менторские программы – прорывы рождаются в коллаборациях, а не в одиночку.
-
----
-
-## Наши принципы
-
-1. **ИИ — инструмент, а не замена**  
-   Используем искусственный интеллект для ускорения рутинных задач, чтобы сосредоточиться на творческой составляющей кода.
-
-2. **Код должен быть открытым**  
-   Все проекты Vibe Coding Community публикуются на GitHub. Форки, пул-реквесты и совместное развитие идей приветствуются.
-
-3. **Обучение через действие**  
-   Участие в хакатонах, вебинары, книга «Vibe Coding для начинающих» – учимся, создавая.
-
-4. **Технологии с человеческим лицом**  
-   Наши сервисы и продукты (например, Vibe Coding Agency, VIBEC-криптовалюта) работают для людей, а не ради прибыли.
-
-5. **Глобальное мышление** 
-   Локальные митапы, международные конкурсы, онлайн-курсы – мир наш дом. Мы стираем границы с помощью кода.
-
----
-
-## Присоединяйся!
-
-Vibe Coding Community — это пространство для разработчиков, дизайнеров, студентов и CEO, готовых менять подход к программированию. Здесь код становится выражением креативности, а ИИ – источником вдохновения.
-
-[Узнать больше и присоединиться к сообществу](https://vcc.community)
+[Join Vibe Coding Community](https://vcc.community)
